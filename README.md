@@ -20,6 +20,8 @@ While struggling with false positives, we were able to fine tune our method's pa
 
 In the end, the classifiers were able to achieve reasonable success not only detecting the objects in the videos but also tracking them as they move in the scene. In the notebook, we briefly discuss some challenges, such as image quality, artifacts on the images and object scales. These issues were mostly worked around using just parameter adjustments. This highlights the quality of this classical image processing algorithm that was a standard for many years.
 
+![haar_classifier_video_object_detection_car_traffic](https://user-images.githubusercontent.com/33037020/202064173-70b090ed-95ed-45b2-bb9c-fd7a1be08c55.gif)
+
 [//]: #
 
 [computer vision]: <https://www.ibm.com/topics/computer-vision>
